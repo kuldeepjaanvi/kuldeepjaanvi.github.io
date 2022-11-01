@@ -58,7 +58,7 @@
       "viewType": "horizontalScroll",
       "header": {
         "title": "Our Activities",
-        "hasMore": no
+        "hasMore": false
       },
       "data": [
         {
