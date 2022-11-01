@@ -4,7 +4,7 @@
       "viewType": "horizontalScroll",
       "data": [
         {
-          "viewType": "categoryElement",
+          "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%206.58.48%20PM.png?alt=media&token=671890e8-53a3-47d0-a54c-d1e3a1209710",
           "title": "",
           "subTitle": "",
@@ -62,7 +62,7 @@
       },
       "data": [
         {
-          "viewType": "categoryElement",
+          "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.30%20PM.png?alt=media&token=8b760532-f36c-44e7-98ce-bbf750270967",
           "title": "",
           "subTitle": "",
@@ -75,7 +75,7 @@
           }
         },
         {
-          "viewType": "categoryElement",
+          "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.58%20PM.png?alt=media&token=aea0b748-b38a-4638-b30e-0dc1960bfb33",
           "title": "",
           "subTitle": "",
@@ -97,7 +97,7 @@
           }
         },
         {
-          "viewType": "categoryElement",
+          "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.58%20PM.png?alt=media&token=aea0b748-b38a-4638-b30e-0dc1960bfb33",
           "title": "",
           "subTitle": "",
@@ -110,7 +110,7 @@
           }
         },
         {
-          "viewType": "categoryElement",
+          "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.58%20PM.png?alt=media&token=aea0b748-b38a-4638-b30e-0dc1960bfb33",
           "title": "",
           "subTitle": "",
@@ -123,7 +123,7 @@
           }
         },
         {
-          "viewType": "categoryElement",
+          "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.58%20PM.png?alt=media&token=aea0b748-b38a-4638-b30e-0dc1960bfb33",
           "title": "",
           "subTitle": "",
