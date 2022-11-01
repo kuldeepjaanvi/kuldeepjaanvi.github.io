@@ -5,9 +5,9 @@
       "data": [
         {
           "viewType": "categoryElement",
-          "imageUrl": "https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/hamburger.png",
-          "title": "Burgers",
-          "subTitle": "260 Places",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%206.58.48%20PM.png?alt=media&token=671890e8-53a3-47d0-a54c-d1e3a1209710",
+          "title": "",
+          "subTitle": "",
           "meta": {
             "bgColor": "#EF5350"
           },
@@ -19,7 +19,7 @@
         {
           "viewType": "bannerElement",
           "imageUrl": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
-          "title": "Buy 1 get 1 Free",
+          "title": "",
           "action": {
             "type": 1,
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
@@ -28,7 +28,7 @@
         {
           "viewType": "bannerElement",
           "imageUrl": "https://images.unsplash.com/photo-1497888329096-51c27beff665?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
-          "title": "Water Licking Options",
+          "title": "",
           "action": {
             "type": 1,
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
@@ -37,7 +37,7 @@
         {
           "viewType": "bannerElement",
           "imageUrl": "https://images.unsplash.com/photo-1437750769465-301382cdf094?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
-          "title": "Lip-Smacking Biryanis",
+          "title": "",
           "action": {
             "type": 1,
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
@@ -46,7 +46,7 @@
         {
           "viewType": "bannerElement",
           "imageUrl": "https://images.unsplash.com/photo-1506395308321-904a71783d60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
-          "title": "Heavenly Pizzas",
+          "title": "",
           "action": {
             "type": 1,
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
@@ -57,15 +57,15 @@
     {
       "viewType": "horizontalScroll",
       "header": {
-        "title": "Top Categories",
-        "hasMore": true
+        "title": "Our Activities",
+        "hasMore": no
       },
       "data": [
         {
           "viewType": "categoryElement",
-          "imageUrl": "https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/hamburger.png",
-          "title": "Burgers",
-          "subTitle": "260 Places",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.30%20PM.png?alt=media&token=8b760532-f36c-44e7-98ce-bbf750270967",
+          "title": "",
+          "subTitle": "",
           "meta": {
             "bgColor": "#EF5350"
           },
@@ -76,9 +76,9 @@
         },
         {
           "viewType": "categoryElement",
-          "imageUrl": "https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/noodles.png",
-          "title": "Chinese",
-          "subTitle": "142 Places",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.58%20PM.png?alt=media&token=aea0b748-b38a-4638-b30e-0dc1960bfb33",
+          "title": "",
+          "subTitle": "",
           "meta": {
             "bgColor": "#EC407A"
           },
@@ -89,8 +89,8 @@
         },
         {
           "viewType": "bannerElement",
-          "imageUrl": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
-          "title": "Upto 30% Off",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.58%20PM.png?alt=media&token=aea0b748-b38a-4638-b30e-0dc1960bfb33",
+          "title": "",
           "action": {
             "type": 1,
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
@@ -98,9 +98,9 @@
         },
         {
           "viewType": "categoryElement",
-          "imageUrl": "https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/pizza.png",
-          "title": "Pizza",
-          "subTitle": "203 Places",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.58%20PM.png?alt=media&token=aea0b748-b38a-4638-b30e-0dc1960bfb33",
+          "title": "",
+          "subTitle": "",
           "meta": {
             "bgColor": "#5C6BC0"
           },
@@ -111,9 +111,9 @@
         },
         {
           "viewType": "categoryElement",
-          "imageUrl": "https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/tacos.png",
-          "title": "Mexican",
-          "subTitle": "40 Places",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.58%20PM.png?alt=media&token=aea0b748-b38a-4638-b30e-0dc1960bfb33",
+          "title": "",
+          "subTitle": "",
           "meta": {
             "bgColor": "#26C6DA"
           },
@@ -124,9 +124,9 @@
         },
         {
           "viewType": "categoryElement",
-          "imageUrl": "https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/ice-cream.png",
-          "title": "Ice Cream",
-          "subTitle": "110 Places",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%207.00.58%20PM.png?alt=media&token=aea0b748-b38a-4638-b30e-0dc1960bfb33",
+          "title": "",
+          "subTitle": "",
           "meta": {
             "bgColor": "#9CCC65"
           },
