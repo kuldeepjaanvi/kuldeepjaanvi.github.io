@@ -134,6 +134,32 @@
             "type": 1,
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
           }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a14.png?alt=media&token=f85787cd-1e11-4778-87c6-746b9c56f295",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#9CCC65"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a15.png?alt=media&token=fab1656d-ffc3-44e9-8576-a519b168e2d4",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#9CCC65"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
         }
       ]
     }
