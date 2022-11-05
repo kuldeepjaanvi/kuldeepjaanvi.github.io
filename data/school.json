@@ -5,6 +5,19 @@
       "data": [
         {
           "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a11.jpeg?alt=media&token=78715810-4e9b-4af3-8564-415dd26dc830",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%206.58.48%20PM.png?alt=media&token=671890e8-53a3-47d0-a54c-d1e3a1209710",
           "title": "",
           "subTitle": "",
