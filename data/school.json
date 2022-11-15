@@ -5,6 +5,99 @@
       "data": [
         {
           "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s4.jpg?alt=media&token=face5af5-5938-4298-9a6f-8435c101de70",
+          "title": "Neeladri Kids Play School",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s5.jpg?alt=media&token=458c10ac-13d6-4a11-8f40-8bdd90373bed",
+          "title": "Mission",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "horizontalScroll",
+      "data": [
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s1.jpg?alt=media&token=bf84540e-5cd1-4e01-93f3-9df227e64686",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s2.jpg?alt=media&token=9133ca72-39d9-4ea1-b8b2-6613f9a9670f",
+          "title": "Our Offerings",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "horizontalScroll",
+      "data": [
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s2.jpg?alt=media&token=9133ca72-39d9-4ea1-b8b2-6613f9a9670f",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s3.jpg?alt=media&token=786c45d5-c2ed-4120-8950-caebb008900c",
+          "title": "Contact Us",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "horizontalScroll",
+      "data": [
+        {
+          "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a11.jpeg?alt=media&token=78715810-4e9b-4af3-8564-415dd26dc830",
           "title": "",
           "subTitle": "",
