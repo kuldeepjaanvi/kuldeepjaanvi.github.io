@@ -77,6 +77,19 @@
             "type": 1,
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
           }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/YuvaDivas.jpg?alt=media&token=58da1fb7-1255-45f7-9be7-f26e37f1cc82",
+          "title": "Kids Learning with Fun",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
         }
       ]
     },
@@ -156,8 +169,8 @@
       "data": [
         {
           "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a1.jpeg?alt=media&token=4ab98c6b-1fee-4815-add4-2c59a87c3d5d",
-          "title": "",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/YuvaDivas.jpg?alt=media&token=58da1fb7-1255-45f7-9be7-f26e37f1cc82",
+          "title": "Yova Divas Celebration",
           "subTitle": "",
           "meta": {
             "bgColor": "#EF5350"
