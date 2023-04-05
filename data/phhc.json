@@ -1,0 +1,286 @@
+{
+  "data": [
+    {
+      "viewType": "horizontalScroll",
+      "data": [
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s4.jpg?alt=media&token=face5af5-5938-4298-9a6f-8435c101de70",
+          "title": "Neeladri Kids Play School",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s5.jpg?alt=media&token=458c10ac-13d6-4a11-8f40-8bdd90373bed",
+          "title": "Mission",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a14.png?alt=media&token=f85787cd-1e11-4778-87c6-746b9c56f295",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#9CCC65"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "horizontalScroll",
+      "data": [
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s1.jpg?alt=media&token=bf84540e-5cd1-4e01-93f3-9df227e64686",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s2.jpg?alt=media&token=9133ca72-39d9-4ea1-b8b2-6613f9a9670f",
+          "title": "Our Offerings",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "horizontalScroll",
+      "data": [
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/s3.jpg?alt=media&token=786c45d5-c2ed-4120-8950-caebb008900c",
+          "title": "Contact Us",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/YuvaDivas.jpg?alt=media&token=58da1fb7-1255-45f7-9be7-f26e37f1cc82",
+          "title": "Kids Learning with Fun",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "horizontalScroll",
+      "data": [
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a11.jpeg?alt=media&token=78715810-4e9b-4af3-8564-415dd26dc830",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/Screenshot%202022-11-01%20at%206.58.48%20PM.png?alt=media&token=671890e8-53a3-47d0-a54c-d1e3a1209710",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/banner1.jpg?alt=media&token=1e0df95a-5c43-4a62-b4a3-73cc51a3cb68",
+          "title": "",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/banner3.jpg?alt=media&token=eaf64f69-5873-43b7-9bc0-f42de3edba5a",
+          "title": "",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/banner2.jpg?alt=media&token=95ae98b5-2226-491e-bcef-2f3a5d1fd58a",
+          "title": "",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/banner1.jpg?alt=media&token=1e0df95a-5c43-4a62-b4a3-73cc51a3cb68",
+          "title": "",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+    {
+      "viewType": "horizontalScroll",
+      "header": {
+        "title": "Our Activities",
+        "hasMore": false
+      },
+      "data": [
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/YuvaDivas.jpg?alt=media&token=58da1fb7-1255-45f7-9be7-f26e37f1cc82",
+          "title": "Yuva Divas Celebration",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a2.jpeg?alt=media&token=b939a6b5-025c-478a-aa8f-231a03baf30a",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EC407A"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a3.jpeg?alt=media&token=73be87e4-d8d7-49ea-b0c6-dde3c3230694",
+          "title": "",
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a4.jpeg?alt=media&token=8ef74c30-be76-4d03-a89f-915fe367033f",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#5C6BC0"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a11.jpeg?alt=media&token=78715810-4e9b-4af3-8564-415dd26dc830",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#26C6DA"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a10.jpeg?alt=media&token=3d0be05e-69e6-49fc-9f77-1267295d0503",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#9CCC65"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a14.png?alt=media&token=f85787cd-1e11-4778-87c6-746b9c56f295",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#9CCC65"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/school-7e497.appspot.com/o/a15.png?alt=media&token=fab1656d-ffc3-44e9-8576-a519b168e2d4",
+          "title": "",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#9CCC65"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    }
+  ]
+}
