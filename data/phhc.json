@@ -42,7 +42,7 @@
       "data": [
         {
           "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FPhysio.png?alt=media&token=7a422712-f9c7-44c3-96e9-2644d6073cc2",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fnursing.png?alt=media&token=5b48eb06-6d1f-4d15-8070-28491839c266",
           "title": "Please call us for any assistance",
           "subTitle": "",
           "meta": {
@@ -54,23 +54,7 @@
           }
         }
       ]
-   },
-   {
-      "viewType": "horizontalScroll",
-      "data": [
-       {
-          "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FPhysio.png?alt=media&token=7a422712-f9c7-44c3-96e9-2644d6073cc2",
-          "title": "Why Us",
-          "subTitle": "",
-          "meta": {
-            "bgColor": "#EF5350"
-          },
-          "action": {
-            "type": 1,
-            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
-          }
-        }
+   }
         
       ]
     }
