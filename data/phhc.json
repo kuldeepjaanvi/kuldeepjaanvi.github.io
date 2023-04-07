@@ -5,7 +5,7 @@
       "data": [
         {
           "viewType": "bannerElement",
-          "imaageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Four-services.png?alt=media&token=7d42e52d-d3fe-4214-bf0f-7802f26e3515",
+          "imaageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Four-services.png?alt=media&token=aca641a2-e7b0-43e9-87c1-78f981f122b0",
           "title": "We are at:Bhopal ,Jabalpur ,Indore and Gwalior",
           "subTitle": "",
           "meta": {
@@ -15,20 +15,8 @@
             "type": 1,
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
           }
-        },
-        {
-          "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FPhysio.png?alt=media&token=7a422712-f9c7-44c3-96e9-2644d6073cc2",
-          "title": "Anywhere in BHOPAL for limmited time*",
-          "subTitle": "",
-          "meta": {
-            "bgColor": "#EF5350"
-          },
-          "action": {
-            "type": 1,
-            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
-          }
         }
+ 
       ]
     },
     {
@@ -56,19 +44,6 @@
           "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fnursing.png?alt=media&token=d1f2a019-ec4b-4605-bf35-6679b7548e64",
           "title": "Please call us for any assistance",
-          "subTitle": "",
-          "meta": {
-            "bgColor": "#EF5350"
-          },
-          "action": {
-            "type": 1,
-            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
-          }
-        },
-        {
-          "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fstaff.jpeg?alt=media&token=5ad609e6-0d9c-4ef3-8741-8ec7bf007db1",
-          "title": "Well experienced, highly professional Team",
           "subTitle": "",
           "meta": {
             "bgColor": "#EF5350"
@@ -83,23 +58,10 @@
    {
       "viewType": "horizontalScroll",
       "data": [
-        {
+       {
           "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fnursing.png?alt=media&token=d1f2a019-ec4b-4605-bf35-6679b7548e64",
-          "title": "Please call us for any assistance",
-          "subTitle": "",
-          "meta": {
-            "bgColor": "#EF5350"
-          },
-          "action": {
-            "type": 1,
-            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
-          }
-        },
-        {
-          "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fstaff.jpeg?alt=media&token=5ad609e6-0d9c-4ef3-8741-8ec7bf007db1",
-          "title": "Well experienced, highly professional Team",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FNursing%20Care%20at%20Home%20for%20Seniors.png?alt=media&token=f4d1fb8f-4218-486a-b67c-fe4995330819",
+          "title": "Why Us",
           "subTitle": "",
           "meta": {
             "bgColor": "#EF5350"
@@ -109,6 +71,7 @@
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
           }
         }
+        
       ]
     }
   ]
