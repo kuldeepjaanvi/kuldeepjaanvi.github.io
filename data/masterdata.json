@@ -1,7 +1,7 @@
 {
   "data": [
 {
-         "viewType":"horizontalScroll",
+         "viewType":"categoryVertical",
          "header":{
             "title":"Top Categories",
             "hasMore":true
@@ -75,7 +75,7 @@
          ]
       },
     {
-      "viewType": "horizontalScroll",
+      "viewType": "singleBanner",
       "data": [
         {
           "viewType": "bannerElement",
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "viewType": "horizontalScroll",
+      "viewType": "bannerHorizontal",
       "data": [
         {
           "viewType": "bannerElement",
@@ -137,22 +137,303 @@
       ]
     },
     {
-      "viewType": "horizontalScroll",
-      "data": [
-        {
-          "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fnursing.png?alt=media&token=5b48eb06-6d1f-4d15-8070-28491839c266",
-          "title": "Please call us for any assistance",
-          "subTitle": "",
-          "meta": {
-            "bgColor": "#EF5350"
-          },
-          "action": {
-            "type": 1,
-            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
-          }
-        }
-      ]
-   } 
+         "viewType":"categoryHorizontal",
+         "header":{
+            "title":"Popular Categories",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/hamburger.png",
+               "title":"Burgers",
+               "subTitle":"260 Places",
+               "meta":{
+                  "bgColor":"#EF5350"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/noodles.png",
+               "title":"Chinese",
+               "subTitle":"142 Places",
+               "meta":{
+                  "bgColor":"#EC407A"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/pizza.png",
+               "title":"Pizza",
+               "subTitle":"203 Places",
+               "meta":{
+                  "bgColor":"#5C6BC0"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/tacos.png",
+               "title":"Mexican",
+               "subTitle":"40 Places",
+               "meta":{
+                  "bgColor":"#26C6DA"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/ice-cream.png",
+               "title":"Ice Cream",
+               "subTitle":"110 Places",
+               "meta":{
+                  "bgColor":"#9CCC65"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            }
+         ]
+      },
+      {
+         "viewType":"MediumBannerVerticall",
+         "header":{
+            "title":"Shop Top Categories",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/hamburger.png",
+               "title":"Burgers",
+               "subTitle":"260 Places",
+               "meta":{
+                  "bgColor":"#EF5350"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/noodles.png",
+               "title":"Chinese",
+               "subTitle":"142 Places",
+               "meta":{
+                  "bgColor":"#EC407A"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/pizza.png",
+               "title":"Pizza",
+               "subTitle":"203 Places",
+               "meta":{
+                  "bgColor":"#5C6BC0"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/tacos.png",
+               "title":"Mexican",
+               "subTitle":"40 Places",
+               "meta":{
+                  "bgColor":"#26C6DA"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/ice-cream.png",
+               "title":"Ice Cream",
+               "subTitle":"110 Places",
+               "meta":{
+                  "bgColor":"#9CCC65"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            }
+         ]
+      },
+      
+      {
+         "viewType":"squareCategoryVerticall",
+         "header":{
+            "title":"Shop Top Categories",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/hamburger.png",
+               "title":"Burgers",
+               "subTitle":"260 Places",
+               "meta":{
+                  "bgColor":"#EF5350"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/noodles.png",
+               "title":"Chinese",
+               "subTitle":"142 Places",
+               "meta":{
+                  "bgColor":"#EC407A"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/pizza.png",
+               "title":"Pizza",
+               "subTitle":"203 Places",
+               "meta":{
+                  "bgColor":"#5C6BC0"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/tacos.png",
+               "title":"Mexican",
+               "subTitle":"40 Places",
+               "meta":{
+                  "bgColor":"#26C6DA"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/ice-cream.png",
+               "title":"Ice Cream",
+               "subTitle":"110 Places",
+               "meta":{
+                  "bgColor":"#9CCC65"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            }
+         ]
+      }
+   ,
+    {
+         "viewType":"squareCategoryHorizontal",
+         "header":{
+            "title":"Shop Top Categories",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/hamburger.png",
+               "title":"Burgers",
+               "subTitle":"260 Places",
+               "meta":{
+                  "bgColor":"#EF5350"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/noodles.png",
+               "title":"Chinese",
+               "subTitle":"142 Places",
+               "meta":{
+                  "bgColor":"#EC407A"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/pizza.png",
+               "title":"Pizza",
+               "subTitle":"203 Places",
+               "meta":{
+                  "bgColor":"#5C6BC0"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/tacos.png",
+               "title":"Mexican",
+               "subTitle":"40 Places",
+               "meta":{
+                  "bgColor":"#26C6DA"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/ice-cream.png",
+               "title":"Ice Cream",
+               "subTitle":"110 Places",
+               "meta":{
+                  "bgColor":"#9CCC65"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            }
+         ]
+      }
       ]
     }
+
