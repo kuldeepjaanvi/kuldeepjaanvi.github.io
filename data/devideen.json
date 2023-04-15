@@ -5,6 +5,19 @@
       "data": [
         {
           "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fwhyus.png?alt=media&token=42798aa6-d7ac-4f7f-acf1-edff3b8d45d7",
+          "title": "Anywhere",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FpromotionBanner.png?alt=media&token=5d5acb64-3db4-4f59-88b0-985ca58b3f82",
           "title": "Anywhere",
           "subTitle": "",
@@ -44,7 +57,7 @@
         },
         {
           "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FRedditech%20IT%20Networks.png?alt=media&token=3e0dc622-2ae6-4b10-bfb7-412f3501b0c1",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FPhysio.png?alt=media&token=7a422712-f9c7-44c3-96e9-2644d6073cc2",
           "title": "Anywhere",
           "subTitle": "",
           "meta": {
@@ -80,7 +93,7 @@
             {
                "viewType":"categoryElement",
                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F1.png?alt=media&token=7f5be85f-caa6-4d33-a7c2-04e8c857007a",
-               "title":"Burgers",
+               "title":"Critical Care",
                "subTitle":"260 Places",
                "meta":{
                   "bgColor":"#EF5350"
@@ -92,10 +105,8 @@
             },
             {
                "viewType":"categoryElement",
-               "imageUrl":" https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FpromotionBanner.png?alt=media&token=5d5acb64-3db4-4f59-88b0-985ca58b3f82",
-
-             
-               "title":"Pizza",
+               "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F4.png?alt=media&token=3acb763a-a830-476f-9611-75adda969032",
+               "title":"Old Age Care",
                "subTitle":"203 Places",
                "meta":{
                   "bgColor":"#5C6BC0"
@@ -108,7 +119,7 @@
             {
                "viewType":"categoryElement",
                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F2.png?alt=media&token=43e5a07a-f126-4074-9b91-cdb185444ba5",
-               "title":"Chinese",
+               "title":"Elder Care",
                "subTitle":"142 Places",
                "meta":{
                   "bgColor":"#EC407A"
@@ -121,7 +132,7 @@
             {
                "viewType":"categoryElement",
                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F3.png?alt=media&token=180c4870-ea02-4df4-8a9d-a93f1c49efaa",
-               "title":"Pizza",
+               "title":"Physiotherapy",
                "subTitle":"203 Places",
                "meta":{
                   "bgColor":"#5C6BC0"
@@ -134,7 +145,20 @@
             {
                "viewType":"categoryElement",
                "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F4.png?alt=media&token=3acb763a-a830-476f-9611-75adda969032",
-               "title":"Mexican",
+               "title":"Nursing",
+               "subTitle":"40 Places",
+               "meta":{
+                  "bgColor":"#26C6DA"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            },
+           {
+               "viewType":"categoryElement",
+               "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F4.png?alt=media&token=3acb763a-a830-476f-9611-75adda969032",
+               "title":"Baby Care & Mother Care",
                "subTitle":"40 Places",
                "meta":{
                   "bgColor":"#26C6DA"
