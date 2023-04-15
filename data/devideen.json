@@ -1,12 +1,73 @@
 {
   "data": [
     {
-      "viewType": "horizontalScroll",
+         "viewType":"categoryVertical",
+         "header":{
+            "title":"Our Services",
+            "hasMore":true
+         },
+         "data":[
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F1.png?alt=media&token=7f5be85f-caa6-4d33-a7c2-04e8c857007a",
+               "title":"Burgers",
+               "subTitle":"260 Places",
+               "meta":{
+                  "bgColor":"#EF5350"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F2.png?alt=media&token=43e5a07a-f126-4074-9b91-cdb185444ba5",
+               "title":"Chinese",
+               "subTitle":"142 Places",
+               "meta":{
+                  "bgColor":"#EC407A"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F3.png?alt=media&token=180c4870-ea02-4df4-8a9d-a93f1c49efaa",
+               "title":"Pizza",
+               "subTitle":"203 Places",
+               "meta":{
+                  "bgColor":"#5C6BC0"
+               },
+               "action":{
+                  "type":1,
+                  "value":"https://www.dictionary.com/browse/school"
+               }
+            },
+            {
+               "viewType":"categoryElement",
+               "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F4.png?alt=media&token=3acb763a-a830-476f-9611-75adda969032",
+               "title":"Mexican",
+               "subTitle":"40 Places",
+               "meta":{
+                  "bgColor":"#26C6DA"
+               },
+               "action":{
+                  "type":1,
+                  "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+               }
+            }
+         ]
+      },
+    {
+      "viewType": "singleBanner",
       "data": [
         {
           "viewType": "bannerElement",
-          "imaageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fnursing.png?alt=media&token=16128c3f-4793-461d-982f-21bb3e0f961a",
-          "title": "We are at:Bhopal ,Jabalpur ,Indore and Gwalior",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fwhyus.png?alt=media&token=42798aa6-d7ac-4f7f-acf1-edff3b8d45d7",
+          "title": "",
           "subTitle": "",
           "meta": {
             "bgColor": "#EF5350"
@@ -20,12 +81,24 @@
       ]
     },
     {
-      "viewType": "horizontalScroll",
+      "viewType": "bannerHorizontal",
       "data": [
         {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fwhyus.png?alt=media&token=42798aa6-d7ac-4f7f-acf1-edff3b8d45d7",
+          "title": "Anywhere",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },{
           "viewType": "bannerElement",
           "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FPhysio.png?alt=media&token=7a422712-f9c7-44c3-96e9-2644d6073cc2",
-          "title": "Anywhere in BHOPAL",
+          "title": "Anywhere",
           "subTitle": "",
           "meta": {
             "bgColor": "#EF5350"
@@ -34,16 +107,11 @@
             "type": 1,
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
           }
-        }
-      ]
-    },
-    {
-      "viewType": "horizontalScroll",
-      "data": [
-        {
+        },
+{
           "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fnursing.png?alt=media&token=d1f2a019-ec4b-4605-bf35-6679b7548e64",
-          "title": "Please call us for any assistance",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fnursing.png?alt=media&token=5b48eb06-6d1f-4d15-8070-28491839c266",
+          "title": "Anywhere",
           "subTitle": "",
           "meta": {
             "bgColor": "#EF5350"
@@ -53,26 +121,8 @@
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
           }
         }
-      ]
-   },
-   {
-      "viewType": "horizontalScroll",
-      "data": [
-       {
-          "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FNursing%20Care%20at%20Home%20for%20Seniors.png?alt=media&token=f4d1fb8f-4218-486a-b67c-fe4995330819",
-          "title": "Why Us",
-          "subTitle": "",
-          "meta": {
-            "bgColor": "#EF5350"
-          },
-          "action": {
-            "type": 1,
-            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
-          }
-        }
-        
       ]
     }
-  ]
+    ]
 }
+
