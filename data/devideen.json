@@ -5,19 +5,7 @@
       "data": [
         {
           "viewType": "bannerElement",
-          "imageUrl": "https://commerce.ibo.com/media/ibo/heroslider/small/BBS_Bath_-_Mob.jpg",
-          "title": "Anywhere",
-          "subTitle": "",
-          "meta": {
-            "bgColor": "#EF5350"
-          },
-          "action": {
-            "type": 1,
-            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
-          }
-        },{
-          "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FPhysio.png?alt=media&token=7a422712-f9c7-44c3-96e9-2644d6073cc2",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FpromotionBanner.png?alt=media&token=5d5acb64-3db4-4f59-88b0-985ca58b3f82",
           "title": "Anywhere",
           "subTitle": "",
           "meta": {
@@ -28,9 +16,48 @@
             "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
           }
         },
-{
+        {
           "viewType": "bannerElement",
-          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fnursing.png?alt=media&token=5b48eb06-6d1f-4d15-8070-28491839c266",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2Fhealthcare.png?alt=media&token=38f101b7-d1f7-4ff0-8f2b-77d9aea8277f",
+          "title": "Anywhere",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "",
+          "title": "Anywhere",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FRedditech%20IT%20Networks.png?alt=media&token=3e0dc622-2ae6-4b10-bfb7-412f3501b0c1",
+          "title": "Anywhere",
+          "subTitle": "",
+          "meta": {
+            "bgColor": "#EF5350"
+          },
+          "action": {
+            "type": 1,
+            "value": "d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType": "bannerElement",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FpromotionBanner.png?alt=media&token=5d5acb64-3db4-4f59-88b0-985ca58b3f82",
           "title": "Anywhere",
           "subTitle": "",
           "meta": {
@@ -65,7 +92,9 @@
             },
             {
                "viewType":"categoryElement",
-               "imageUrl":"https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/LetsHealthy%2F3.png?alt=media&token=180c4870-ea02-4df4-8a9d-a93f1c49efaa",
+               "imageUrl":" https://firebasestorage.googleapis.com/v0/b/pari-f7c41.appspot.com/o/PariServices%2FpromotionBanner.png?alt=media&token=5d5acb64-3db4-4f59-88b0-985ca58b3f82",
+
+             
                "title":"Pizza",
                "subTitle":"203 Places",
                "meta":{
